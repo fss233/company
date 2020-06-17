@@ -1,2 +1,15 @@
 hadoop集群监控总结
 https://blog.csdn.net/lin443514407lin/article/details/82797042
+
+
+
+参考：
+
+https://cwiki.apache.org/confluence/display/EAG/Hadoop+JMX+Monitoring+and+Alerting#HadoopJMXMonitoringandAlerting-MetricsCollector
+
+https://hadoop.apache.org/docs/r2.8.4/hadoop-yarn/hadoop-yarn-site/ResourceManagerRest.html
+
+http://hadoop.apache.org/docs/r2.5.2/hadoop-project-dist/hadoop-common/Metrics.html#rpc
+
+http://hackershell.cn/?p=1355
+
